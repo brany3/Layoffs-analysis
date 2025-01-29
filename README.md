@@ -1,4 +1,4 @@
-#Employee Layoffs Analysis
+# Employee Layoffs Analysis
 
 This project includes two SQL files:
 - `layoffs_Cleaning.sql` : This file contains the SQL queries for cleaning and preparing the layoffs data.
